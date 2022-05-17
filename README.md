@@ -1,4 +1,6 @@
-![Github-Profile-Header](https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif)
+<!-- ![Github-Profile-Header](https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif) -->
+<img align="center" src="https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif" width="850" />
+
 
 <p align="center">
 <a href="https://www.codewars.com/users/orlandogordon"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
@@ -8,7 +10,7 @@
 </p>
 
 <p align="center">
-    Hey there, my name is Orlando!
+    Hey there, my name is Orlando! I am a cyber insurance brokr by day and full-stack software engineer by night. Please feel free to take a look at some of the projects I've been working on and reach out with any feedback or potential oppurtunites. 
 </p>
 
 <!--Project Section -->
@@ -77,7 +79,7 @@
 <img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
 <img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=python&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
