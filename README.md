@@ -1,20 +1,86 @@
-<h1 align="center">Hi 👋, I'm Orlando</h1>
-<h3 align="center">A passionate full-stack engineer based in New York City</h3>
+![Github-Profile-Header](https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif)
 
-- 👨‍💻 All of my projects are available at [https://orlandogordon.com/](https://orlandogordon.com/)
-
-- 📫 How to reach me **orlando.a.gordon@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/orlando-gordon-132032177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orlando-gordon-132032177/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.codewars.com/users/orlandogordon"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
+<a href="mailto:orlando.a.gordon@email.com"><img src="https://img.shields.io/badge/orlando.a.gordon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/orlando-gordon-132032177/"><img src="https://img.shields.io/badge/Orlando_Gordon-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://orlandogordon.com/Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+    Hey there, my name is Orlando!
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orlandogordon&show_icons=true&locale=en&layout=compact" alt="orlandogordon" /></p>
+<!--Project Section -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orlandogordon&show_icons=true&locale=en" alt="orlandogordon" /></p>
+<h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">Forkify</h2>
+<div align="center" >  
+<a href='https://forkify-orlando.netlify.app/'>
+<img src="https://user-images.githubusercontent.com/99216709/168296642-829a65ee-f83d-44ce-993b-19ff9b96ff6d.gif" alt="Forkify App" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/orlandogordon/forkify" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://forkify-orlando.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5, Sass</strong> - Created a vanilla JavaScript application using the Forkify API. Users can search for recipes, bookmark their favorites, and even upload recipes of their own!</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Bankist</h2>
+<div align="center" >  
+<a href='https://bankist-orlando.netlify.app/'>
+<img src="https://user-images.githubusercontent.com/99216709/168307839-a4ddeedc-492c-4e98-bc2c-be363c822c49.gif" alt="Bankist App" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/orlandogordon/bankist" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://bankist-orlando.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Landing page for a fictional bank that allows users to sign up for an account and sign into the online banking application. Users can transfer money amongst themselves and even request loans from the bank!</p>
+</div>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orlandogordon&" alt="orlandogordon" /></p>
+</div>
+  <!--Analytics & Data-->
+<h2 align="center">Data & Analytics</h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=orlandogordon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=orlandogordon&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+</table>
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=orlandogordon&bg_color=FFFFFF00&color=fa8b00&line=D14836&point=fa8b00&hide_border=true&title_color=">
+<h2 align="center">Technical Skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
+</p>
+
+
