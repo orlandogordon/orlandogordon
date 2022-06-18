@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
 <img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=python&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=python" height=25>
 <img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
