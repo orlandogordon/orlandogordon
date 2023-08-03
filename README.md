@@ -1,16 +1,15 @@
 <!-- ![Github-Profile-Header](https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif) -->
-<img align="center" src="https://user-images.githubusercontent.com/99216709/168736618-2fc26441-6018-43f2-9045-db28f4e084ff.gif" width="850" />
+<img align="center" src="https://github.com/orlandogordon/orlandogordon/assets/99216709/12d262e6-a7ae-4ee0-8918-73406d2015d1" width="850" />
 
 
 <p align="center">
-<a href="https://www.codewars.com/users/orlandogordon"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
-<a href="mailto:orlando.a.gordon@email.com"><img src="https://img.shields.io/badge/orlando.a.gordon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/orlando-gordon-132032177/"><img src="https://img.shields.io/badge/Orlando_Gordon-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://orlandogordon.com/Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-D14836?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="mailto:orlando.a.gordon@email.com"><img src="https://img.shields.io/badge/orlando.a.gordon@gmail.com-7594FF?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/orlando-gordon-132032177/"><img src="https://img.shields.io/badge/Orlando_Gordon-7594FF?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://orlandogordon.com/Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-7594FF?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
-    Hey there, my name is Orlando! I am a self taught full-stack software engineer currently completing an apprenticeship at Microsoft. Please feel free to take a look at some of the projects I've been working on and reach out with any feedback or potential oppurtunites. 
+    Hey there, my name is Orlando! I am a full-stack software engineer and have recently completed a SWE apprenticeship at Microsoft. Please feel free to take a look at the projects I've been working on and reach out with any feedback or potential oppurtunites. 
 </p>
 
 <!--Project Section -->
@@ -20,42 +19,43 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Forkify</h2>
+<h3 align="center" color="white">Wander NA</h3>
 <div align="center" >  
-<a href='https://forkify-orlando.netlify.app/'>
-<img src="https://user-images.githubusercontent.com/99216709/168296642-829a65ee-f83d-44ce-993b-19ff9b96ff6d.gif" alt="Forkify App" height="322px" width="100%" />
+<a href='https://wander-xggp.onrender.com/'>
+<img src="https://github.com/orlandogordon/orlandogordon/assets/99216709/cb0a4dbe-0ff6-403e-ab22-056ac09360c4" alt="Wander NA Demo GIF" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/orlandogordon/forkify" target="_blank">
+<a href="https://github.com/orlandogordon/wander-na-backend" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://forkify-orlando.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<a href="https://wander-xggp.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7594FF"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5, Sass</strong> - Created a vanilla JavaScript application using the Forkify API. Users can search for recipes, bookmark their favorites, and even upload recipes of their own!</p>
+<p><strong>Node, Express, MongoDB, React, Typescript, and Tailwind</strong> - Full-stack web application for a fictional tour hosting company that allows users to create an account, browse upcoming tours, and book tours with the Stripe API!/p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Bankist</h2>
+<h3 align="center" color="white">EvoGym</h3>
 <div align="center" >  
-<a href='https://bankist-orlando.netlify.app/'>
-<img src="https://user-images.githubusercontent.com/99216709/168307839-a4ddeedc-492c-4e98-bc2c-be363c822c49.gif" alt="Bankist App" height="322px" width="100%" />
+<a href='https://main--evo-gym-nj.netlify.app/'>
+<img src="https://github.com/orlandogordon/orlandogordon/assets/99216709/85b5c421-f20c-4588-8d86-8404dce1a746" alt="EvoGym Home Page" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/orlandogordon/bankist" target="_blank">
+<a href="https://github.com/orlandogordon/evo-gym" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://bankist-orlando.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+<a href="https://main--evo-gym-nj.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=7594FF"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Landing page for a fictional bank that allows users to sign up for an account and sign into the online banking application. Users can transfer money amongst themselves and even request loans from the bank!</p>
+<p><strong>TypeScript, React, Tailwind, Vite - Informational website for a fictional fitness compnay with an emphasis on proper typing and modern styling patterns. All graphics found on the site were created using Canva</p>
 </div>
+</td>
 </table>
 
 </div>
@@ -64,24 +64,40 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=orlandogordon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
+<td width="100%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=orlandogordon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7594FF&sideNums=7594FF&sideLabels=90A9FF&background=FFFFFF00&currStreakNum=fa8b00">
 </td>
-<td width="50%">
+<!-- <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=orlandogordon&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+</td> -->
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=orlandogordon&bg_color=FFFFFF00&color=fa8b00&line=D14836&point=fa8b00&hide_border=true&title_color=">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandogordon&theme=high-contrast&hide_border=true&title=Contribution%20Graph" alt="activity graph">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-D14836?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/Python-D14836?style=for-the-badge&logo=python" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-7594FF?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-7594FF?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Tailwind-7594FF?style=for-the-badge&logo=tailwindcss&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-7594FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/TypeScript-7594FF?style=for-the-badge&logo=typescript&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Jest-7594FF?style=for-the-badge&logo=jest&logoColor=C21325" height=25>
+<img src="https://img.shields.io/badge/Node.js-7594FF?style=for-the-badge&logo=nodedotjs&logoColor=339933" height=25>
+<img src="https://img.shields.io/badge/Express-7594FF?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-7594FF?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/Redux-7594FF?style=for-the-badge&logo=redux&logoColor=764ABC" height=25>
+<img src="https://img.shields.io/badge/Next.js-7594FF?style=for-the-badge&logo=nextdotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Python-7594FF?style=for-the-badge&logo=python" height=25>
+<img src="https://img.shields.io/badge/Django-7594FF?style=for-the-badge&logo=django&logoColor=092E20" height=25>
+<img src="https://img.shields.io/badge/Pytest-7594FF?style=for-the-badge&logo=pytest&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Jupyter-7594FF?style=for-the-badge&logo=jupyter&logoColor=F37626" height=25>
+<img src="https://img.shields.io/badge/MongoDB-7594FF?style=for-the-badge&logo=mongodb&logoColor=47A248" height=25>
+<img src="https://img.shields.io/badge/Mongoose-7594FF?style=for-the-badge&logo=mongoose&logoColor=880000" height=25>
+<img src="https://img.shields.io/badge/PostgreSQL-7594FF?style=for-the-badge&logo=postgresql&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/C-7594FF?style=for-the-badge&logo=c&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/C++-7594FF?style=for-the-badge&logo=cplusplus&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-7594FF?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Git-7594FF?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Azure_DevOps-7594FF?style=for-the-badge&logo=azuredevops&logoColor=white" height=25>
 </p>
 
 
