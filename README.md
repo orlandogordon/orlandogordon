@@ -61,8 +61,9 @@
 </div>
   <!--Analytics & Data-->
 <h2 align="center">Data & Analytics</h2>
-
+<div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=orlandogordon&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7594FF&sideNums=7594FF&sideLabels=90A9FF&background=FFFFFF00&currStreakNum=fa8b00">
+</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=orlandogordon&theme=high-contrast&hide_border=true&title=Contribution%20Graph" alt="activity graph">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
